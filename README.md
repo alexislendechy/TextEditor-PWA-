@@ -46,7 +46,7 @@ Before running TextEditor-PWA-, you'll need the following software installed on 
 ## Usage
 1. Start the development server:
     ```sh
-    npm start
+    npm run start:dev
 This will launch the application locally. Open your browser and go to http://localhost:8080 to access the text editor.
 
 2. Create and edit your text content. It will be automatically saved in IndexedDB.
